@@ -16,7 +16,7 @@ Scope and Focus:
 
 Software Engineering: Covers the entire software lifecycle, including planning, analysis, design, implementation, testing, deployment, and maintenance, with a focus on quality and project management.
 Traditional Programming: Focuses mainly on writing and debugging code for specific tasks, often without broader project management and long-term maintenance considerations.
-Methodology:
+Methodology: YEs
 
 Software Engineering: Utilizes structured methodologies and tools for requirements gathering, design, testing, and maintenance.
 Traditional Programming: Relies more on individual skills and may lack formal processes.
